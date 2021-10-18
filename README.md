@@ -1,2 +1,2 @@
-# my-first-repository
-my first repository
+# build-an-object-challenge
+https://teamtreehouse.com/library/build-an-object-challenge
